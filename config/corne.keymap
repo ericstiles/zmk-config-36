@@ -10,7 +10,7 @@
 
 #define HAS_TRI_STATE
 #define HAS_MOUSE_KEYS
-// #define HAS_MOUSE_TP
+#define HAS_MOUSE_TP
 // #define HAS_CAPSLOCK
 
 /* source the main keymap */
